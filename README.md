@@ -1,7 +1,7 @@
 **Welcome!**
 
 * Geology ⚒️
-  * mineralogy 🔬  
+  * petrology and mineralogy 🔬  
   * metamorphism ⛰️
   * geostatistics 📊
-* Data Science & Machine learning 🤖
+* Data Science & Machine Learning 🤖
