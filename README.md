@@ -5,4 +5,4 @@
   * metamorphism ⛰️
   * geostatistics 📊
 * Data Science & Machine Learning 🤖
-* Julia enthusiast! 🔵🟣🔴🟢
+* Julia enthusiast! 🟣
