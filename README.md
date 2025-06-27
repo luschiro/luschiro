@@ -1,5 +1,3 @@
-**Welcome!**
-
 * Geology ⚒️
   * petrology and mineralogy 🔬  
   * metamorphism ⛰️
